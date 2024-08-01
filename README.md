@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @NightDesertOrig
-- 👀 I’m interested in Java
-- 🌱 I’m currently learning
-- 📫 How to reach me NightDesert#9459
+- Hello, I'm NightDesert
+- Super professional programmer and remapper(no)
+- Interesting Java
+- Feedback and questions on projects:
+Discord: @nightdesert
+Telegram: t.me/n1ghtd3s3rt
 
 <!---
 NightDesertOrig/NightDesertOrig is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
