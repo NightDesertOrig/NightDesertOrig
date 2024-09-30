@@ -3,7 +3,7 @@
 - Interesting Java
 - Feedback and questions on projects:
 Discord: @nightdesert
-Telegram: t.me/n1ghtd3s3rt
+Telegram: t.me/nightdesert
 
 <!---
 NightDesertOrig/NightDesertOrig is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
