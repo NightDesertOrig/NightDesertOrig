@@ -2,7 +2,7 @@
 - Super professional programmer and remapper(no)
 - Interesting Java
 - Feedback and questions on projects:
-Discord: @nightdesert
+Discord: nightdesert
 Telegram: t.me/nightdesert
 
 <!---
